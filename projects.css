@@ -1,0 +1,68 @@
+nav {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    color: rgba(18, 4, 82, 0.747);
+    }
+
+    nav .brand-logo, nav ul a{
+        margin-left: 20px;
+        color: rgba(18, 4, 82, 0.747);
+    }
+
+    nav ul a{
+        font-size: 30px;
+    }
+
+#logophoto{
+    width: 30%;
+    display: block;
+    margin: 20px 0;
+}
+
+    body{
+        background-color: rgba(255, 230, 0, 0.541);
+    }
+
+#webpg h1{
+    margin-left: 50px;
+    font-family: 'Shadows Into Light', cursive;
+    color:  rgba(18, 4, 82, 0.747);
+}
+
+#webpg p{
+    margin-left: 75px;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 22px;
+
+}
+
+#brochure h1{
+    margin-left: 50px;
+    font-family: 'Shadows Into Light', cursive;
+    color:  rgba(18, 4, 82, 0.747);
+}
+
+#brochure p{
+    margin-left: 75px;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 22px;
+
+}
+
+#writing h1{
+    margin-left: 50px;
+    font-family: 'Shadows Into Light', cursive;
+    color:  rgba(18, 4, 82, 0.747);
+}
+
+#writing p{
+    margin-left: 75px;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 22px;
+
+}
+
+.parallax img{
+    width:100%;
+}
+
